@@ -1,11 +1,11 @@
 {
-  "name": "DULLAH-XMD",
+  "name": "LASIYA-XMD",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node dullahxmd.js"
+    "start": "node dlasiyahxmd.js"
   },
   "engines": {
     "node": "24.x",
