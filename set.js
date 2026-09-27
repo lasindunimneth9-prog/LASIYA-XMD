@@ -34,7 +34,7 @@ const config = {
     SIPUTZX: process.env.SIPUTZX || 'https://api.akuari.my.id',
 
     OWNER_NAME: process.env.OWNER_NAME || 'DULLAH-MD',
-    NUMERO_OWNER: process.env.NUMERO_OWNER || process.env.OWNER_NUMBER || '255716945971',
+    NUMERO_OWNER: process.env.NUMERO_OWNER || process.env.OWNER_NUMBER || '94715770059',
     BOT_NAME: process.env.BOT_NAME || 'ᴅᴜʟʟᴀʜ-xᴍᴅ v²',
     URL: process.env.IMAGE_MENU || 'https://files.catbox.moe/3v4ezj.jpeg',
 
